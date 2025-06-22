@@ -1,4 +1,4 @@
-title: Jiwoo Shin
+title: Jiwoo Shin test
 logo: /assets/img/2024.jpg
 # description: Minimal is a theme for GitHub Pages.
 show_downloads: false
@@ -6,7 +6,8 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 url: "https://chuu-shin.github.io"
-baseurl: ""   # (빈 문자열!)
+baseurl: "/"
+
 
 # remote_theme: pages-themes/minimal@v0.2.0
 # plugins:
