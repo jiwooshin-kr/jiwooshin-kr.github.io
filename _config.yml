@@ -1,19 +1,19 @@
-# title: Jiwoo Shin
-# logo: /assets/img/2024.jpg
-# # description: Minimal is a theme for GitHub Pages.
-# show_downloads: false
-# google_analytics:
-# theme: jekyll-theme-minimal
+title: Jiwoo Shin
+logo: /assets/img/2024.jpg
+# description: Minimal is a theme for GitHub Pages.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
 # remote_theme: pages-themes/minimal@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Jiwoo Shin
-logo: /assets/img/2024.jpg
-# description: Undedrgraduate Student at KAIST
-is_porject_page: false
-is_user_page: true
-# show_downloads: true
-# theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
-# theme: null
+# title: Jiwoo Shin
+# logo: /assets/img/2024.jpg
+# # description: Undedrgraduate Student at KAIST
+# is_porject_page: false
+# is_user_page: true
+# # show_downloads: true
+# # theme: jekyll-theme-minimal
+# remote_theme: pages-themes/minimal@v0.2.0
+# # theme: null
