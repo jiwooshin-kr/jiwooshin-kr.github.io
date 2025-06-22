@@ -8,7 +8,6 @@ Hi, my name is Jiwoo Shin, and I am an undergraduate student at **<span style="c
 <!-- As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to innovate the field of disease treatment. That is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.  -->
 Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale impact</span>, I’m especially passionate about the potential of generative AI to advance disease treatment. This motivation has led me to intern at the [KAIST AAILab](https://aai.kaist.ac.kr/), where I’m currently conducting research on deep generative models.
 <br>
-<br>
 
 ***
 
@@ -22,7 +21,6 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 - Chungnam Science High School (Mar 2017 - Feb 2019)
   - Early graduation
 <br>
-<br>
 
 ***
 
@@ -30,7 +28,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 - <b><span style="color:grey;">Fall 2024,</span></b> <span style="color:#4B89DC;">Dean's List <b>(Top 3%)</b></span>, KAIST ISE
 - <b><span style="color:grey;">Nov 2022,</span></b> KAIST IE Frontier Encouragement Award
 - <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Dean's List <b>(Top 3%)</b></span>, KAIST ISE
- 
+ <br>
 
 ***
 
@@ -38,13 +36,13 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 - <b><span style="color:grey;">Fall 2025,</span></b> Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD)
 - <b><span style="color:grey;">Spring 2022,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship <b>(Rank #2)</b></span>, KAIST ISE
 - <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship <b>(Rank #1)</b></span>, KAIST ISE 
+<br>
 
 ***
 
 ## Research Interests
 - Deep Generative Model
 - Biomedical AI
-<br>
 <br>
 
 ***
@@ -53,7 +51,8 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 - [Spidercore](https://www.spidercore.io) (Dec 2024 - Feb 2025)
   - AI Research Engineer Intern
   - Predicting ADMET properties of molecules through GNN models pretrained in a multimodal setting with molecular text information
-    
+<br>
+
 ***
 
 ## Research Experience
@@ -78,6 +77,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 - [Financial Engineering Lab](https://felab.kaist.ac.kr/), KAIST (Jun 2021 - Aug 2021)
   - Advisor: Prof. Woo Chang Kim
   - Research Topics: High Frequency Trading, Reinforcement Learning
+<br>
 
 ***
 
@@ -85,6 +85,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 <b><span style="color:#4B89DC;">["Nodes-in-Cluster Significance Score(NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831)</span></b>
 <br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, **Jiwoo Shin&#42;**, Jieun Han&#42;
 <br>Korea Computer Congress (KCC 2022, Poster)
+<br>
 
 ***
 
@@ -94,7 +95,6 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 - Student Council, KAIST ISE
   - Vice Representative (2020)
   - Vice President (2021)
-<br>
 <br>
 
 ***
