@@ -82,7 +82,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 
 ***
 
-## Publications
+## Publication
 <b><span style="color:#4B89DC;">["Nodes-in-Cluster Significance Score(NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831)</span></b>
 <br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, **Jiwoo Shin&#42;**, Jieun Han&#42;
 <br>Korea Computer Congress (KCC 2022, Poster)
