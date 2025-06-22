@@ -125,6 +125,14 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+/* 프로필 이미지 크기 조절 */
+header img {
+  width: 230px;   // 원하는 사이즈 (예: 100~160px)
+  height: auto;
+  border-radius: 50px;  // 선택: 둥글게 만들기
+  margin-bottom: 10px;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
