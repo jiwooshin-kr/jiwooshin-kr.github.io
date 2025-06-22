@@ -127,7 +127,7 @@ header {
 
 /* 프로필 이미지 크기 조절 */
 header img {
-  width: 230px;   // 원하는 사이즈 (예: 100~160px)
+  width: 180px;   // 원하는 사이즈 (예: 100~160px)
   height: auto;
   border-radius: 50px;  // 선택: 둥글게 만들기
   margin-bottom: 10px;
@@ -233,7 +233,13 @@ footer {
 
   header {
     padding-right:320px;
+    text-align: center; /* 추가 */
   }
+  
+  // header img {
+  //   display: inline-block; /* ✅ 텍스트처럼 중앙에 정렬 */
+  //   margin: 0 auto;         /* 백업용 */
+  // }
 
   section {
     border:1px solid #e5e5e5;
