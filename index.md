@@ -26,6 +26,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 
 ## Awards
 - <b><span style="color:grey;">Fall 2024,</span></b> <span style="color:#4B89DC;">Dean's List <b>(Top 3%)</b></span>, KAIST ISE
+- <b><span style="color:grey;">Dec 2022,</span></b> <span style="color:#4B89DC;">Honor Graduate <b>(Rank #3 among over 1,500 trainees)</b></span>, ROK Air Force Basic Military Training (Class 842)
 - <b><span style="color:grey;">Nov 2022,</span></b> KAIST IE Frontier Encouragement Award
 - <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Dean's List <b>(Top 3%)</b></span>, KAIST ISE
  <br>
