@@ -4,6 +4,10 @@ logo: /assets/img/2024.jpg
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+url: "https://chuu-shin.github.io"
+baseurl: ""   # (빈 문자열!)
+
 # remote_theme: pages-themes/minimal@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
