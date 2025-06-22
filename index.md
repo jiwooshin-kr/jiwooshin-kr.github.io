@@ -13,12 +13,12 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 ***
 
 ## Education
-- B.S., [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) (Mar 2019 - Present)
-  - Double Major: Industrial and Systems Engineering & Computer Science
-  - <b><span style="color:#4B89DC;">Major GPA: 4.02 / 4.3</span></b>, Cumulative GPA: 3.86 / 4.3
+- [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) (Mar 2019 - Present)
+  - B.S. in Industrial and Systems Engineering & Computer Science (Double Major)
+  - GPA: 3.86 / 4.3, <b><span style="color:#4B89DC;">Major GPA: 4.02 / 4.3</span></b>
   - 2 years leave of absence for military service (Oct 2022 - Jul 2024)
 - [University of Portland](https://www.up.edu) (Aug 2025 - Dec 2025)
-  - Exchange Student
+  - Exchange Student, Department of Computer Science
 - Chungnam Science High School (Mar 2017 - Feb 2019)
   - Early graduation
 <br>
@@ -27,16 +27,17 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 ***
 
 ## Awards
-- <b><span style="color:grey;">Fall 2024,</span></b> Dean's List (Top 3%), KAIST ISE
+- <b><span style="color:grey;">Fall 2024,</span></b> <span style="color:#4B89DC;">Dean's List <b>(Top 3%)</b></span>, KAIST ISE
 - <b><span style="color:grey;">Nov 2022,</span></b> KAIST IE Frontier Encouragement Award
-- <b><span style="color:grey;">Fall 2020,</span></b> Dean's List (Top 3%), KAIST ISE
+- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Dean's List <b>(Top 3%)</b></span>, KAIST ISE
+ 
 
 ***
 
 ## Scholarships
 - <b><span style="color:grey;">Fall 2025,</span></b> Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD)
-- <b><span style="color:grey;">Spring 2022,</span></b> <b><span style="color:#4B89DC;">Department Honors Scholarship (Rank #2)</span></b>, KAIST ISE
-- <b><span style="color:grey;">Fall 2020,</span></b> <b><span style="color:#4B89DC;">Department Honors Scholarship (Rank #1)</span></b>, KAIST ISE 
+- <b><span style="color:grey;">Spring 2022,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship <b>(Rank #2)</b></span>, KAIST ISE
+- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship <b>(Rank #1)</b></span>, KAIST ISE 
 
 ***
 
