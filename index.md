@@ -14,7 +14,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 ## Education
 - [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) (Mar 2019 - Present)
   - B.S. in Industrial and Systems Engineering & Computer Science (Double Major)
-  - GPA: 3.86 / 4.3, <b><span style="color:#4B89DC;">Major GPA: 4.02 / 4.3</span></b>
+  - GPA: 3.85 / 4.3, <b><span style="color:#4B89DC;">Major GPA: 4.02 / 4.3</span></b>
   - 2 years leave of absence for military service (Oct 2022 - Jul 2024)
 - [University of Portland](https://www.up.edu) (Aug 2025 - Dec 2025)
   - Exchange Student, Department of Computer Science
