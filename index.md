@@ -46,19 +46,27 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 ***
 
 ## Awards
-- <b><span style="color:grey;">Sep 2025,</span></b> Next-Generation Engineer, IPESK
-- <b><span style="color:grey;">Fall 2024,</span></b> <span style="color:#4B89DC;"><b>Dean's List</b> (Top 3%)</span>, KAIST ISE
-- <b><span style="color:grey;">Dec 2022,</span></b> <span style="color:#4B89DC;"><b>Honor Graduate</b> (Rank #3 among over 1,500 trainees)</span>, ROK Air Force Basic Military Training (Class 842)
-- <b><span style="color:grey;">Nov 2022,</span></b> KAIST IE Frontier Encouragement Award
-- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;"><b>Dean's List</b> (Top 3%)</span>, KAIST ISE
+- <b><span style="color:grey;">Sep 2025,</span></b> <span style="color:#4B89DC;">Next-Generation Engineer</span>, IPESK
+- <b><span style="color:grey;">Fall 2024,</span></b> <span style="color:#4B89DC;">Dean's List (Top 3%)</span>, KAIST ISE
+- <b><span style="color:grey;">Dec 2022,</span></b> <span style="color:#4B89DC;">Honor Graduate (Rank #3 among over 1,500 trainees)</span>, ROK Air Force Basic Military Training (Class 842)
+- <b><span style="color:grey;">Nov 2022,</span></b> <span style="color:#4B89DC;">KAIST IE Frontier Encouragement Award</span>, KAIST ISE
+- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Dean's List (Top 3%)</span>, KAIST ISE
  <br>
 
-***
+<!-- ***
 
 ## Scholarships
 - <b><span style="color:grey;">Fall 2025,</span></b> Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD), Minister of Trade, Industry and Energy.
 - <b><span style="color:grey;">Spring 2022,</span></b> <span style="color:#4B89DC;"><b>Department Honors Scholarship</b> (Rank #2)</span>, KAIST ISE
 - <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;"><b>Department Honors Scholarship</b> (Rank #1)</span>, KAIST ISE 
+<br> -->
+
+***
+
+## Scholarships
+- <b><span style="color:grey;">Fall 2025,</span></b>  <span style="color:#4B89DC;">Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD)</span>, Minister of Trade, Industry and Energy.
+- <b><span style="color:grey;">Spring 2022,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship (Rank #2)</span>, KAIST ISE
+- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship (Rank #1)</span>, KAIST ISE 
 <br>
 
 <!-- ***
