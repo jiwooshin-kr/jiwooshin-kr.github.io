@@ -39,7 +39,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 
 <b><span style="color:#4B89DC;">Training-Free Safe Text Embedding Guidance for Text-to-Image Diffusion Models</span></b>
 <!-- <br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, **Jiwoo Shin&#42;**, Jieun Han&#42; -->
-<br>Byeonghu Na, Mina Kang, Jiseok Kwak, Minsang Park, <b>Jiwoo Shin</b>, SeJoon Jun, Gayoung Lee, Jin-Hwa Kim, and Il-Chul Moon
+<br>Byeonghu Na, Mina Kang, Jiseok Kwak, Minsang Park, <b>Jiwoo Shin</b>, SeJoon Jun, Gayoung Lee, Jin-Hwa Kim, Il-Chul Moon
 <br><i>Neural Information Processing Systems <b>(NeurIPS)</b>, 2025.</i>
 <br>
 
