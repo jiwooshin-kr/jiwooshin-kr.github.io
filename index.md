@@ -6,7 +6,7 @@ layout: default
 Hi, my name is Jiwoo Shin, and I am an undergraduate student at <span style="color:#4B89DC">KAIST</span>, double majoring in <span style="color:#4B89DC">Industrial and Systems Engineering</span> and <span style="color:#4B89DC">Computer Science</span>.
 <br>
 <!-- As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to innovate the field of disease treatment. That is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.  -->
-Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale impact</span>, I’m especially passionate about the potential of generative AI to advance disease treatment. This motivation has led me to intern at the [KAIST AAILab](https://aai.kaist.ac.kr/), where I’m currently conducting research on deep generative models.
+Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale impact</span>, I’m especially passionate about the potential of generative AI to advance disease treatment.
 <br>
 
 ***
