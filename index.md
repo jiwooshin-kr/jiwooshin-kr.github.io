@@ -33,7 +33,7 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 
 ## Publications
 <b><span style="color:#4B89DC;">[Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2511.04834)</span></b>
-<br><b>Jiwoo Shin</b>, Byeonghu Na, Mina Kang, Wonhyeok Choi, Il-chul Moon
+<br><b>Jiwoo Shin</b>, Byeonghu Na, Mina Kang, Wonhyeok Choi, Il-Chul Moon
 <br><i><b>NeurIPS 2025 Workshop</b> on Generative and Protective AI for Content Creation.</i>
 <br>
 
