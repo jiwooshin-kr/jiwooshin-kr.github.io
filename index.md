@@ -32,18 +32,17 @@ Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale
 ***
 
 ## Publications
-<b><span style="color:#4B89DC;">Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models</span></b>
+<b><span style="color:#4B89DC;">[Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2511.04834)</span></b>
 <br><b>Jiwoo Shin</b>, Byeonghu Na, Mina Kang, Wonhyeok Choi, Il-chul Moon
 <br><i><b>NeurIPS 2025 Workshop</b> on Generative and Protective AI for Content Creation.</i>
 <br>
 
-<b><span style="color:#4B89DC;">Training-Free Safe Text Embedding Guidance for Text-to-Image Diffusion Models</span></b>
-<!-- <br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, **Jiwoo Shin&#42;**, Jieun Han&#42; -->
+<b><span style="color:#4B89DC;">[Training-Free Safe Text Embedding Guidance for Text-to-Image Diffusion Models](https://arxiv.org/abs/2510.24012)</span></b>
 <br>Byeonghu Na, Mina Kang, Jiseok Kwak, Minsang Park, <b>Jiwoo Shin</b>, SeJoon Jun, Gayoung Lee, Jin-Hwa Kim, Il-Chul Moon
 <br><i>Neural Information Processing Systems <b>(NeurIPS)</b>, 2025.</i>
 <br>
 
-<b><span style="color:#4B89DC;">["Nodes-in-Cluster Significance Score(NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831)</span></b>
+<b><span style="color:#4B89DC;">[Nodes-in-Cluster Significance Score(NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831)</span></b>
 <br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, <b>Jiwoo Shin&#42;</b>, Jieun Han&#42;
 <br>Korea Computer Congress (KCC 2022, Poster)
 <br>
