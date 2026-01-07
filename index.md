@@ -69,7 +69,7 @@ Hi, my name is Jiwoo Shin, and I am an undergraduate student at <span style="col
 ***
 
 ## Scholarships
-- <b><span style="color:grey;">Fall 2025,</span></b>  <span style="color:#4B89DC;">Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD)</span>, Minister of Trade, Industry and Energy.
+- <b><span style="color:grey;">Fall 2025,</span></b>  <span style="color:#4B89DC;">Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD)</span>, Minister of Trade, Industry and Energy
 - <b><span style="color:grey;">Spring 2022,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship (Rank #2)</span>, KAIST ISE
 - <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship (Rank #1)</span>, KAIST ISE 
 <br>
