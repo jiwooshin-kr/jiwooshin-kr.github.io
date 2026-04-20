@@ -3,13 +3,24 @@ layout: default
 ---
 
 ## About Me
-Hi, my name is Jiwoo Shin, and I am an undergraduate student at <span style="color:#4B89DC">KAIST</span>, double majoring in <span style="color:#4B89DC">Industrial and Systems Engineering</span> and <span style="color:#4B89DC">Computer Science</span>.
-<br>
+Hi, I am an undergraduate student at <span style="color:#4B89DC">KAIST</span>, double majoring in <span style="color:#4B89DC">Industrial and Systems Engineering</span> and <span style="color:#4B89DC">Computer Science</span>.
+I am currently a research intern at the [KAIST AAILab](https://aai.kaist.ac.kr) under Professor Il-Chul Moon, working on deep generative models.
+
+I am particularly interested in inference-time controllability and alignment, focusing on steering generative models toward outputs that are safe and aligned with user intentions.
 <!-- As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to innovate the field of disease treatment. That is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.  -->
 <!-- Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale impact</span>, I’m especially passionate about the potential of generative AI to advance disease treatment. -->
 <br>
 
 ***
+
+## Research Interests
+
+- Diffusion Models (text-to-image, discrete)
+- Inference-time controllability and alignment
+<br>
+
+***
+
 
 ## Education
 - [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) (Mar 2019 - Present)
@@ -21,13 +32,6 @@ Hi, my name is Jiwoo Shin, and I am an undergraduate student at <span style="col
   - GPA: 4.0 / 4.0 (Dean's List)
 - Chungnam Science High School (Mar 2017 - Feb 2019)
   - Early graduation
-<br>
-
-***
-
-## Research Interests
-- Deep Generative Model
-<!-- - Biomedical AI -->
 <br>
 
 ***
@@ -118,10 +122,10 @@ Hi, my name is Jiwoo Shin, and I am an undergraduate student at <span style="col
 
 *** -->
 
-***
+<!-- *** -->
 
-## Motto & Values
+<!-- ## Motto & Values
 - <span style="color:#4B89DC">Breaking Routine.</span> Getting out of my comfort zone.
 - Short-term pessimist, long-term optimist
 - Help lives. Help organizations. Help the world.
-- Bill Gates argued at the World Economic Forum, “There are two great forces of human nature: self-interest, and caring for others,” and people are most successful when they are driven by a “hybrid engine” of the two.
+- Bill Gates argued at the World Economic Forum, “There are two great forces of human nature: self-interest, and caring for others,” and people are most successful when they are driven by a “hybrid engine” of the two. -->
