@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 Hi, I am an undergraduate student at <span style="color:#4B89DC">KAIST</span>, double majoring in <span style="color:#4B89DC">Industrial and Systems Engineering</span> and <span style="color:#4B89DC">Computer Science</span>.
-I am currently a research intern at the [KAIST AAILab](https://aai.kaist.ac.kr) under Professor Il-Chul Moon, working on deep generative models.
+Currently, I am a research intern at the [KAIST AAILab](https://aai.kaist.ac.kr) under Professor Il-Chul Moon, where I work on deep generative models.
 
-I am particularly interested in inference-time controllability and alignment, focusing on steering generative models toward outputs that are safe and aligned with user intentions.
+I am particularly interested in inference-time controllability and alignment, focusing on steering generative models to produce outputs that are safe and aligned with user intentions.
 <!-- As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to innovate the field of disease treatment. That is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.  -->
 <!-- Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale impact</span>, I’m especially passionate about the potential of generative AI to advance disease treatment. -->
 <br>
@@ -25,8 +25,8 @@ I am particularly interested in inference-time controllability and alignment, fo
 ## Education
 - [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) (Mar 2019 - Present)
   - B.S. in Industrial and Systems Engineering & Computer Science (Double Major)
-  - GPA: 3.85 / 4.3, <b>Major GPA: 4.02 / 4.3</b>
   - 2 years leave of absence for military service (Oct 2022 - Jul 2024)
+  - GPA: 3.85 / 4.3, Major GPA: 4.02 / 4.3
 - [University of Portland](https://www.up.edu) (Aug 2025 - Dec 2025)
   - Exchange Student, Department of Computer Science
   - GPA: 4.0 / 4.0 (Dean's List)
