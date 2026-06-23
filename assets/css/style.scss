@@ -16,7 +16,8 @@
   --gold: #a87416;
   --shadow: 0 24px 60px rgba(23, 32, 29, 0.11);
   --max-width: 1280px;
-  --font-body: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-body: "Inter", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-display: "Inter", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 * {
@@ -32,6 +33,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font: 15px/1.68 var(--font-body);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
   text-rendering: optimizeLegibility;
 }
 
@@ -107,7 +109,8 @@ p + p {
 
 .site-brand {
   color: var(--ink);
-  font-size: 17px;
+  font-size: 18px;
+  font-family: var(--font-display);
   font-weight: 700;
 }
 
@@ -121,7 +124,7 @@ p + p {
 
 .site-nav a {
   color: var(--muted);
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
   padding: 8px 10px;
 }
@@ -133,7 +136,7 @@ p + p {
 main {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 28px;
+  padding: 18px 28px 28px;
 }
 
 .page-shell {
@@ -141,7 +144,7 @@ main {
   grid-template-columns: minmax(250px, 290px) minmax(0, 1fr);
   gap: 32px;
   align-items: start;
-  padding: 20px 0 72px;
+  padding: 10px 0 48px;
 }
 
 .profile-card {
@@ -164,7 +167,8 @@ main {
 
 .profile-card h1 {
   color: var(--ink);
-  font-size: 34px;
+  font-family: var(--font-display);
+  font-size: 30px;
   line-height: 1.08;
   text-align: center;
   margin-bottom: 14px;
@@ -187,11 +191,17 @@ main {
 .profile-card__note {
   color: var(--muted);
   font-size: 14px;
+  line-height: 1.58;
   text-align: left;
 }
 
 .profile-card__bio {
-  margin: 0 0 18px;
+  margin: 0 0 14px;
+}
+
+.profile-card__bio + .profile-card__bio {
+  margin-top: 0;
+  margin-bottom: 18px;
 }
 
 .profile-card__note {
@@ -204,7 +214,8 @@ main {
   margin-top: 0;
 }
 
-.profile-links a {
+.profile-links a,
+.profile-links__item {
   display: grid;
   grid-template-columns: 48px 1fr;
   gap: 16px;
@@ -225,7 +236,7 @@ main {
 }
 
 .profile-links img {
-  padding: 13px;
+  padding: 10px;
   object-fit: contain;
 }
 
@@ -250,8 +261,8 @@ main {
 
 .eyebrow {
   color: var(--accent-strong);
-  font-size: 15px;
-  font-weight: 700;
+  font-size: 17px;
+  font-weight: 650;
   letter-spacing: 0;
   margin-bottom: 12px;
   text-transform: uppercase;
@@ -318,13 +329,23 @@ main {
 
 .publication,
 .recognition-grid article {
-  border: 1px solid var(--line);
+  border: 1px solid rgba(214, 222, 230, 0.72);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.78);
+  background: rgba(255, 255, 255, 0.58);
   padding: 14px 16px;
 }
 
+.publication {
+  transition: border-color 180ms ease, background 180ms ease;
+}
+
+.publication:hover {
+  border-color: rgba(13, 79, 120, 0.28);
+  background: rgba(255, 255, 255, 0.72);
+}
+
 .publication h3 {
+  font-family: var(--font-display);
   font-size: 16px;
   line-height: 1.35;
   margin: 4px 0 8px;
@@ -362,11 +383,12 @@ main {
 
 .timeline__date {
   color: var(--accent-strong);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
 }
 
 .timeline h3 {
+  font-family: var(--font-display);
   font-size: 16px;
   line-height: 1.35;
   margin-bottom: 8px;
@@ -383,7 +405,7 @@ main {
 .recognition-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 14px;
+  gap: 18px;
 }
 
 .recognition-grid article {
@@ -395,8 +417,8 @@ main {
 
 .recognition-grid span {
   display: inline;
-  color: #52677c;
-  font-size: 12px;
+  color: var(--accent);
+  font-size: 14px;
   font-weight: 700;
 }
 
@@ -425,42 +447,8 @@ main {
   margin: 0;
 }
 
-.site-footer {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 22px 28px 42px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 20px;
-  color: var(--muted);
-}
-
-.social-links {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.social-links a {
-  display: grid;
-  place-items: center;
-  width: 38px;
-  height: 38px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.72);
-}
-
-.social-links img {
-  width: 19px;
-  height: 19px;
-  object-fit: contain;
-}
-
 @media (max-width: 880px) {
-  .site-header,
-  .site-footer {
+  .site-header {
     align-items: flex-start;
     flex-direction: column;
   }
@@ -475,7 +463,7 @@ main {
   }
 
   .page-shell {
-    gap: 28px;
+    gap: 22px;
     padding-top: 10px;
   }
 
@@ -493,8 +481,8 @@ main {
   }
 
   .section {
-    gap: 28px;
-    padding: 54px 0;
+    gap: 22px;
+    padding: 42px 0;
   }
 
   .section__heading {
@@ -505,8 +493,7 @@ main {
 
 @media (max-width: 560px) {
   .site-header,
-  main,
-  .site-footer {
+  main {
     padding-left: 18px;
     padding-right: 18px;
   }
@@ -521,7 +508,7 @@ main {
   }
 
   .profile-card h1 {
-    font-size: 32px;
+    font-size: 29px;
   }
 
   .timeline__item {

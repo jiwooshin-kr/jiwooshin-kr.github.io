@@ -10,29 +10,31 @@ title: Jiwoo Shin | KAIST
     <p class="profile-card__role">Undergraduate Student</p>
     <p class="profile-card__bio">
       I am an undergraduate student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>, double majoring in
-      Industrial and Systems Engineering and Computer Science. I am currently a research intern at
-      <a href="https://aai.kaist.ac.kr/">KAIST AAILab</a>, where I study deep generative models.
+      Industrial and Systems Engineering and Computer Science.
     </p>
-    <p class="profile-card__note">
+    <p class="profile-card__bio">
+      I am currently a research intern at <a href="https://aai.kaist.ac.kr/">KAIST AAILab</a> under Professor Il-Chul Moon, where I work on deep generative models.
+    </p>
+    <!-- <p class="profile-card__note">
       My email/DM are open to anyone interested in research and collaboration.
-    </p>
+    </p> -->
     <div class="profile-links" aria-label="Profile links">
       <a href="/assets/documents/cv_jiwooshin.pdf">
-        <img src="/assets/img/cv.png" alt="">
+        <img src="/assets/img/cv.svg" alt="">
         <span><strong>CV</strong>Curriculum vitae</span>
       </a>
       <a href="mailto:natu33@kaist.ac.kr">
-        <span class="profile-links__icon">@</span>
+        <img src="/assets/img/email.svg" alt="">
         <span><strong>Email</strong>natu33@kaist.ac.kr</span>
       </a>
       <a href="https://www.linkedin.com/in/jiwoo-shin-0030a1217">
-        <img src="/assets/img/linkedin.png" alt="">
+        <img src="/assets/img/linkedin.svg" alt="">
         <span><strong>LinkedIn</strong>Jiwoo Shin</span>
       </a>
-      <a href="https://github.com/chuu-shin">
-        <img src="/assets/img/github.png" alt="">
-        <span><strong>GitHub</strong>chuu-shin</span>
-      </a>
+      <div class="profile-links__item">
+        <img src="/assets/img/blog.svg" alt="">
+        <span><strong>Blog</strong>(coming soon)</span>
+      </div>
     </div>
   </aside>
 
@@ -43,9 +45,10 @@ title: Jiwoo Shin | KAIST
   </div>
   <div class="section__body">
     <p>
-      My research interest is inference-time controllability and alignment: methods that steer generative
+      <!-- My research interest is inference-time controllability and alignment: methods that steer generative
       models toward outputs that are safe, useful, and aligned with user intent without requiring expensive
-      retraining.
+      retraining. -->
+      My research interests lie in inference-time controllability and alignment, with a focus on methods that steer generative models toward safe and user-aligned outputs without requiring expensive retraining. Recently, I have been especially interested in safe generation and discrete diffusion.
     </p>
   </div>
 </section>
@@ -56,25 +59,26 @@ title: Jiwoo Shin | KAIST
   </div>
   <div class="timeline">
     <article class="timeline__item">
-      <div class="timeline__date">2019 - Present</div>
+      <div class="timeline__date">02/2019 - Present</div>
       <div>
         <h3>Korea Advanced Institute of Science and Technology</h3>
-        <p>B.S. in Industrial and Systems Engineering and Computer Science.</p>
-        <p class="timeline__meta">GPA: 3.85 / 4.3, Major GPA: 4.02 / 4.3.</p>
+        <p>B.S. in Industrial and Systems Engineering & Computer Science (Double Major)</p>
+        <p class="timeline__meta">GPA: 3.85 / 4.3, Major GPA: 4.02 / 4.3</p>
       </div>
     </article>
     <article class="timeline__item">
-      <div class="timeline__date">2025</div>
+      <div class="timeline__date">08/2025 - 12/2025</div>
       <div>
         <h3>University of Portland</h3>
-        <p>Exchange student, Department of Computer Science. GPA: 4.0 / 4.0, Dean's List.</p>
+        <p>Exchange student, Department of Computer Science</p>
+        <p class="timeline__meta">GPA: 4.0 / 4.0, Dean's List</p>
       </div>
     </article>
     <article class="timeline__item">
-      <div class="timeline__date">2017 - 2019</div>
+      <div class="timeline__date">03/2017 - 02/2019</div>
       <div>
         <h3>Chungnam Science High School</h3>
-        <p>Early graduation.</p>
+        <p>Early graduation</p>
       </div>
     </article>
   </div>
@@ -107,7 +111,7 @@ title: Jiwoo Shin | KAIST
 
 <section class="section" id="recognition">
   <div class="section__heading">
-    <p class="eyebrow">Awards & Scholarships</p>
+    <p class="eyebrow">Awards</p>
   </div>
   <div class="recognition-grid">
     <article>
@@ -115,11 +119,11 @@ title: Jiwoo Shin | KAIST
       <strong>Next-Generation Engineer, Grand Prize</strong>
       <p>IPESK</p>
     </article>
-    <article>
+    <!-- <article>
       <span>Fall 2025</span>
       <strong>Korea-US Advanced Technology Youth Exchange Program Scholarship</strong>
       <p>Minister of Trade, Industry and Energy</p>
-    </article>
+    </article> -->
     <article>
       <span>Fall 2024</span>
       <strong>Dean's List, Top 3%</strong>
@@ -127,21 +131,30 @@ title: Jiwoo Shin | KAIST
     </article>
     <article>
       <span>Dec 2022</span>
-      <strong>Honor Graduate, Rank #3</strong>
-      <p>ROK Air Force Basic Military Training, Class 842</p>
+      <strong>Basic Military Training Honor Graduate (Rank #3)</strong>
+      <p>ROKAF, Class 842</p>
     </article>
     <article>
+      <span>Nov 2022</span>
+      <strong>KAIST IE Frontier Encouragement Award</strong>
+      <p>KAIST ISE</p>
+    </article>
+    <!-- <article>
       <span>Spring 2022</span>
       <strong>Department Honors Scholarship, Rank #2</strong>
       <p>KAIST ISE</p>
-    </article>
-    <article>
+    </article> -->
+    <!-- <article>
       <span>Fall 2020</span>
       <strong>Department Honors Scholarship, Rank #1</strong>
+      <p>KAIST ISE</p>
+    </article> -->
+    <article>
+      <span>Fall 2020</span>
+      <strong>Dean's List, Top 3%</strong>
       <p>KAIST ISE</p>
     </article>
   </div>
 </section>
-
   </div>
 </div>
