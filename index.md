@@ -126,12 +126,12 @@ title: Jiwoo Shin | KAIST
     </article> -->
     <article>
       <span>Fall 2024</span>
-      <strong>Dean's List, Top 3%</strong>
+      <strong>Dean's List (Top 3%)</strong>
       <p>KAIST ISE</p>
     </article>
     <article>
       <span>Dec 2022</span>
-      <strong>Basic Military Training Honor Graduate (Rank #3)</strong>
+      <strong>Basic Military Training Honor Graduate (Ranked #3)</strong>
       <p>ROKAF, Class 842</p>
     </article>
     <article>
@@ -139,19 +139,14 @@ title: Jiwoo Shin | KAIST
       <strong>KAIST IE Frontier Encouragement Award</strong>
       <p>KAIST ISE</p>
     </article>
-    <!-- <article>
+    <article>
       <span>Spring 2022</span>
-      <strong>Department Honors Scholarship, Rank #2</strong>
+      <strong>Top Student Award (Ranked #2)</strong>
       <p>KAIST ISE</p>
-    </article> -->
-    <!-- <article>
-      <span>Fall 2020</span>
-      <strong>Department Honors Scholarship, Rank #1</strong>
-      <p>KAIST ISE</p>
-    </article> -->
+    </article>
     <article>
       <span>Fall 2020</span>
-      <strong>Dean's List, Top 3%</strong>
+      <strong>Dean's List (Top 3%) and Top Student Award (Ranked #1)</strong>
       <p>KAIST ISE</p>
     </article>
   </div>
