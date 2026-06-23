@@ -1,131 +1,147 @@
 ---
 layout: default
+title: Jiwoo Shin | KAIST
 ---
 
-## About Me
-Hi, I am an undergraduate student at <span style="color:#4B89DC">KAIST</span>, double majoring in <span style="color:#4B89DC">Industrial and Systems Engineering</span> and <span style="color:#4B89DC">Computer Science</span>.
-Currently, I am a research intern at the [KAIST AAILab](https://aai.kaist.ac.kr) under Professor Il-Chul Moon, where I work on deep generative models.
+<div class="page-shell" id="home">
+  <aside class="profile-card" aria-label="Profile">
+    <img class="profile-card__photo" src="/assets/img/2024.jpg" alt="Portrait of Jiwoo Shin">
+    <h1>Jiwoo Shin</h1>
+    <p class="profile-card__role">Undergraduate Student</p>
+    <p class="profile-card__bio">
+      I am an undergraduate student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>, double majoring in
+      Industrial and Systems Engineering and Computer Science. I am currently a research intern at
+      <a href="https://aai.kaist.ac.kr/">KAIST AAILab</a>, where I study deep generative models.
+    </p>
+    <p class="profile-card__note">
+      My email/DM are open to anyone interested in research and collaboration.
+    </p>
+    <div class="profile-links" aria-label="Profile links">
+      <a href="/assets/documents/cv_jiwooshin.pdf">
+        <img src="/assets/img/cv.png" alt="">
+        <span><strong>CV</strong>Curriculum vitae</span>
+      </a>
+      <a href="mailto:natu33@kaist.ac.kr">
+        <span class="profile-links__icon">@</span>
+        <span><strong>Email</strong>natu33@kaist.ac.kr</span>
+      </a>
+      <a href="https://www.linkedin.com/in/jiwoo-shin-0030a1217">
+        <img src="/assets/img/linkedin.png" alt="">
+        <span><strong>LinkedIn</strong>Jiwoo Shin</span>
+      </a>
+      <a href="https://github.com/chuu-shin">
+        <img src="/assets/img/github.png" alt="">
+        <span><strong>GitHub</strong>chuu-shin</span>
+      </a>
+    </div>
+  </aside>
 
-I am particularly interested in inference-time controllability and alignment, focusing on steering generative models to produce outputs that are safe and aligned with user intentions.
-<!-- As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to innovate the field of disease treatment. That is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.  -->
-<!-- Driven by the <span style="color:#4B89DC">desire to make a positive, large-scale impact</span>, I’m especially passionate about the potential of generative AI to advance disease treatment. -->
-<br>
+  <div class="content-flow">
+<section class="section" id="about">
+  <div class="section__heading">
+    <p class="eyebrow">Research Interests</p>
+  </div>
+  <div class="section__body">
+    <p>
+      My research interest is inference-time controllability and alignment: methods that steer generative
+      models toward outputs that are safe, useful, and aligned with user intent without requiring expensive
+      retraining.
+    </p>
+  </div>
+</section>
 
-***
+<section class="section section--split" id="education">
+  <div class="section__heading">
+    <p class="eyebrow">Education</p>
+  </div>
+  <div class="timeline">
+    <article class="timeline__item">
+      <div class="timeline__date">2019 - Present</div>
+      <div>
+        <h3>Korea Advanced Institute of Science and Technology</h3>
+        <p>B.S. in Industrial and Systems Engineering and Computer Science.</p>
+        <p class="timeline__meta">GPA: 3.85 / 4.3, Major GPA: 4.02 / 4.3.</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <div class="timeline__date">2025</div>
+      <div>
+        <h3>University of Portland</h3>
+        <p>Exchange student, Department of Computer Science. GPA: 4.0 / 4.0, Dean's List.</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <div class="timeline__date">2017 - 2019</div>
+      <div>
+        <h3>Chungnam Science High School</h3>
+        <p>Early graduation.</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-## Research Interests
+<section class="section" id="publications">
+  <div class="section__heading">
+    <p class="eyebrow">Publications</p>
+  </div>
+  <div class="publication-list">
+    <article class="publication">
+      <p class="publication__venue">NeurIPS 2025 Workshop on Generative and Protective AI for Content Creation</p>
+      <h3><a href="https://arxiv.org/abs/2511.04834">Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models</a></h3>
+      <p><strong>Jiwoo Shin</strong>, Byeonghu Na, Mina Kang, Wonhyeok Choi, Il-Chul Moon</p>
+    </article>
 
-- Diffusion Models (text-to-image, discrete)
-- Inference-time controllability and alignment
-<br>
+    <article class="publication">
+      <p class="publication__venue">NeurIPS 2025</p>
+      <h3><a href="https://arxiv.org/abs/2510.24012">Training-Free Safe Text Embedding Guidance for Text-to-Image Diffusion Models</a></h3>
+      <p>Byeonghu Na, Mina Kang, Jiseok Kwak, Minsang Park, <strong>Jiwoo Shin</strong>, SeJoon Jun, Gayoung Lee, Jin-Hwa Kim, Il-Chul Moon</p>
+    </article>
 
-***
+    <article class="publication">
+      <p class="publication__venue">Korea Computer Congress, 2022</p>
+      <h3><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831">Nodes-in-Cluster Significance Score (NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data</a></h3>
+      <p>Junhyeok Jung*, Kwanghyeon Lee*, <strong>Jiwoo Shin*</strong>, Jieun Han*</p>
+    </article>
+  </div>
+</section>
 
+<section class="section" id="recognition">
+  <div class="section__heading">
+    <p class="eyebrow">Awards & Scholarships</p>
+  </div>
+  <div class="recognition-grid">
+    <article>
+      <span>Sep 2025</span>
+      <strong>Next-Generation Engineer, Grand Prize</strong>
+      <p>IPESK</p>
+    </article>
+    <article>
+      <span>Fall 2025</span>
+      <strong>Korea-US Advanced Technology Youth Exchange Program Scholarship</strong>
+      <p>Minister of Trade, Industry and Energy</p>
+    </article>
+    <article>
+      <span>Fall 2024</span>
+      <strong>Dean's List, Top 3%</strong>
+      <p>KAIST ISE</p>
+    </article>
+    <article>
+      <span>Dec 2022</span>
+      <strong>Honor Graduate, Rank #3</strong>
+      <p>ROK Air Force Basic Military Training, Class 842</p>
+    </article>
+    <article>
+      <span>Spring 2022</span>
+      <strong>Department Honors Scholarship, Rank #2</strong>
+      <p>KAIST ISE</p>
+    </article>
+    <article>
+      <span>Fall 2020</span>
+      <strong>Department Honors Scholarship, Rank #1</strong>
+      <p>KAIST ISE</p>
+    </article>
+  </div>
+</section>
 
-## Education
-- [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) (Mar 2019 - Present)
-  - B.S. in Industrial and Systems Engineering & Computer Science (Double Major)
-  - 2 years leave of absence for military service (Oct 2022 - Jul 2024)
-  - GPA: 3.85 / 4.3, Major GPA: 4.02 / 4.3
-- [University of Portland](https://www.up.edu) (Aug 2025 - Dec 2025)
-  - Exchange Student, Department of Computer Science
-  - GPA: 4.0 / 4.0 (Dean's List)
-- Chungnam Science High School (Mar 2017 - Feb 2019)
-  - Early graduation
-<br>
-
-***
-
-## Publications
-<b><span style="color:#4B89DC;">[Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2511.04834)</span></b>
-<br><b>Jiwoo Shin</b>, Byeonghu Na, Mina Kang, Wonhyeok Choi, Il-Chul Moon
-<br><i><b>NeurIPS 2025 Workshop</b> on Generative and Protective AI for Content Creation.</i>
-<br>
-
-<b><span style="color:#4B89DC;">[Training-Free Safe Text Embedding Guidance for Text-to-Image Diffusion Models](https://arxiv.org/abs/2510.24012)</span></b>
-<br>Byeonghu Na, Mina Kang, Jiseok Kwak, Minsang Park, <b>Jiwoo Shin</b>, SeJoon Jun, Gayoung Lee, Jin-Hwa Kim, Il-Chul Moon
-<br><i>Neural Information Processing Systems <b>(NeurIPS)</b>, 2025.</i>
-<br>
-
-<b><span style="color:#4B89DC;">[Nodes-in-Cluster Significance Score(NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831)</span></b>
-<br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, <b>Jiwoo Shin&#42;</b>, Jieun Han&#42;
-<br><i>Korea Computer Congress (KCC), 2022.</i>
-<br>
-
-***
-
-## Awards
-- <b><span style="color:grey;">Sep 2025,</span></b> <span style="color:#4B89DC;">Next-Generation Engineer (Grand Prize)</span>, IPESK
-- <b><span style="color:grey;">Fall 2024,</span></b> <span style="color:#4B89DC;">Dean's List (Top 3%)</span>, KAIST ISE
-- <b><span style="color:grey;">Dec 2022,</span></b> <span style="color:#4B89DC;">Honor Graduate (Rank #3)</span>, ROK Air Force Basic Military Training (Class 842)
-- <b><span style="color:grey;">Nov 2022,</span></b> <span style="color:#4B89DC;">KAIST IE Frontier Encouragement Award</span>, KAIST ISE
-- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Dean's List (Top 3%)</span>, KAIST ISE
- <br>
-
-<!-- ***
-
-## Scholarships
-- <b><span style="color:grey;">Fall 2025,</span></b> Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD), Minister of Trade, Industry and Energy.
-- <b><span style="color:grey;">Spring 2022,</span></b> <span style="color:#4B89DC;"><b>Department Honors Scholarship</b> (Rank #2)</span>, KAIST ISE
-- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;"><b>Department Honors Scholarship</b> (Rank #1)</span>, KAIST ISE 
-<br> -->
-
-***
-
-## Scholarships
-- <b><span style="color:grey;">Fall 2025,</span></b>  <span style="color:#4B89DC;">Korea–U.S. Advanced Technology Youth Exchange Program Scholarship (9,000 USD)</span>, Minister of Trade, Industry and Energy
-- <b><span style="color:grey;">Spring 2022,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship (Rank #2)</span>, KAIST ISE
-- <b><span style="color:grey;">Fall 2020,</span></b> <span style="color:#4B89DC;">Department Honors Scholarship (Rank #1)</span>, KAIST ISE 
-<br>
-
-<!-- ***
-
-## Work Experience
-- [Spidercore](https://www.spidercore.io) (Dec 2024 - Feb 2025)
-  - AI Research Engineer Intern
-  - Predicting ADMET properties of molecules through GNN models pretrained in a multimodal setting with molecular text information
-<br> -->
-
-<!-- ***
-
-## Research Experience
-- [AAILab](https://aai.kaist.ac.kr/), KAIST (Mar 2025 - Jul 2025)
-  - Advisor: Prof. Il-Chul Moon
-  - Research Topics: Training-Free Safe Image Generation in Text-to-Image Diffusion Models
-  - Collaboration with <b><span style="color:#4B89DC;">NAVER Corp.</span></b>
-
-- [AAILab](https://aai.kaist.ac.kr/), KAIST (Sep 2024 - Dec 2024)
-  - Advisor: Prof. Il-Chul Moon
-  - Research Topics: Retrieval-Augmented Generation (RAG)
-    
-- [AAILab](https://aai.kaist.ac.kr/), KAIST (Mar 2022 - Aug 2022)
-  - Advisor: Prof. Il-Chul Moon, Ph.D. Mingi Ji
-  - Research Topics: Class Imbalance, Knowledge Distillation
-    
-- [AAILab](https://aai.kaist.ac.kr/), KAIST (Dec 2021 - Feb 2022)
-  - Advisor: Prof. Il-Chul Moon
-  - Research Topics: Probabilistic Deep Generative Model
-    
-- [Financial Engineering Lab](https://felab.kaist.ac.kr/), KAIST (Jun 2021 - Aug 2021)
-  - Advisor: Prof. Woo Chang Kim
-  - Research Topics: High Frequency Trading, Reinforcement Learning
-<br> -->
-
-
-<!-- ## Activities
-- KAIST Korean Buddy (Fall 2024)
-  - International Exchange Student Assistant
-- Student Council, KAIST ISE
-  - Vice Representative (2020)
-  - Vice President (2021)
-<br>
-
-*** -->
-
-<!-- *** -->
-
-<!-- ## Motto & Values
-- <span style="color:#4B89DC">Breaking Routine.</span> Getting out of my comfort zone.
-- Short-term pessimist, long-term optimist
-- Help lives. Help organizations. Help the world.
-- Bill Gates argued at the World Economic Forum, “There are two great forces of human nature: self-interest, and caring for others,” and people are most successful when they are driven by a “hybrid engine” of the two. -->
+  </div>
+</div>
