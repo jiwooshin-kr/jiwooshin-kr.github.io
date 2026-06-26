@@ -7,13 +7,10 @@ title: Jiwoo Shin | KAIST
   <aside class="profile-card" aria-label="Profile">
     <img class="profile-card__photo" src="/assets/img/2024.jpg" alt="Portrait of Jiwoo Shin">
     <h1>Jiwoo Shin</h1>
-    <p class="profile-card__role">Undergraduate Student</p>
+    <p class="profile-card__role">Incoming M.S. Student</p>
     <p class="profile-card__bio">
-      I am an undergraduate student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>, double majoring in
-      Industrial and Systems Engineering and Computer Science.
-    </p>
-    <p class="profile-card__bio">
-      I am currently a research intern at <a href="https://aai.kaist.ac.kr/">KAIST AAILab</a> under Professor Il-Chul Moon, where I work on deep generative models.
+      I am an incoming M.S. student at <a href="https://gsai.kaist.ac.kr/">KAIST Graduate School of AI</a>,
+      advised by Prof. Il-Chul Moon at <a href="https://aai.kaist.ac.kr/">KAIST AAILab</a>.
     </p>
     <!-- <p class="profile-card__note">
       My email/DM are open to anyone interested in research and collaboration.
@@ -63,7 +60,7 @@ title: Jiwoo Shin | KAIST
       <div>
         <h3>Korea Advanced Institute of Science and Technology</h3>
         <p>B.S. in Industrial and Systems Engineering & Computer Science (Double Major)</p>
-        <p class="timeline__meta">GPA: 3.85 / 4.3, Major GPA: 4.02 / 4.3</p>
+        <p class="timeline__meta">GPA: 3.87 / 4.3, Major GPA: 4.03 / 4.3</p>
       </div>
     </article>
     <article class="timeline__item">
