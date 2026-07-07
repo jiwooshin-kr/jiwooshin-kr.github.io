@@ -6,21 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
     {% seo title=false %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}?v={{ site.time | date: '%s' }}">
     {% include head-custom.html %}
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header">
-      <a class="site-brand" href="{{ "/" | relative_url }}" aria-label="{{ site.title | default: "Home" }}">
-        {{ site.title | default: "Jiwoo Shin" }}
-      </a>
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="#home">Home</a>
-        <a href="#education">Education</a>
-        <a href="#publications">Publications</a>
-        <a href="#recognition">Awards</a>
-      </nav>
+      <div class="site-header__inner">
+        <a class="site-brand" href="{{ "/" | relative_url }}" aria-label="{{ site.title | default: "Home" }}">
+          {{ site.title | default: "Jiwoo Shin" }}
+        </a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="#home">Home</a>
+          <a href="#education">Education</a>
+          <a href="#publications">Publications</a>
+          <a href="#recognition">Awards</a>
+        </nav>
+      </div>
     </header>
     <main id="main">
       {{ content }}
