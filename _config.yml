@@ -5,6 +5,8 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 is_user_page: true
+plugins:
+  - jekyll-seo-tag
 
 url: "https://chuu-shin.github.io"
 baseurl: ""
