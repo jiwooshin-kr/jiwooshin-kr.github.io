@@ -637,6 +637,26 @@ main {
     padding-right: 18px;
   }
 
+  .site-nav {
+    flex-wrap: nowrap;
+    gap: 0;
+    margin-left: -8px;
+    width: 100%;
+  }
+
+  .site-nav a {
+    font-size: 12.5px;
+    padding: 6px 8px;
+    white-space: nowrap;
+  }
+
+  .theme-toggle {
+    flex-shrink: 0;
+    margin-left: auto;
+    width: 30px;
+    height: 30px;
+  }
+
   .timeline__item,
   .recognition-grid article {
     grid-template-columns: 1fr;
