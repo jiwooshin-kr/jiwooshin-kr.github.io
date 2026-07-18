@@ -5,7 +5,7 @@ title: Jiwoo Shin | KAIST
 
 <div class="page-shell" id="home">
   <aside class="profile-card" aria-label="Profile">
-    <img class="profile-card__photo" src="/assets/img/2026_profile.jpg" alt="Portrait of Jiwoo Shin">
+    <img class="profile-card__photo" src="/assets/img/2024.jpg" alt="Portrait of Jiwoo Shin">
     <h1>Jiwoo Shin</h1>
     <p class="profile-card__role">Incoming M.S. Student</p>
     <p class="profile-card__bio">
