@@ -1,5 +1,5 @@
 title: Jiwoo Shin
-logo: /assets/img/2024.jpg
+logo: /assets/img/2026_profile.jpg
 description: Generative AI researcher focused on controllable and aligned diffusion models.
 show_downloads: false
 google_analytics:
@@ -17,7 +17,7 @@ baseurl: ""
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # title: Jiwoo Shin
-# logo: /assets/img/2024.jpg
+# logo: /assets/img/2026_profile.jpg
 # # description: Undedrgraduate Student at KAIST
 # is_porject_page: false
 # is_user_page: true
