@@ -30,7 +30,7 @@ title: Jiwoo Shin | KAIST
       </a>
       <a href="https://jiwooshin-kr.github.io/blog">
         <img src="/assets/img/blog.svg" alt="">
-        <span><strong>Blog</strong>jiwooshin-kr.github.io/blog</span>
+        <span><strong>Blog</strong>Notes to self</span>
       </a>
     </div>
   </aside>
