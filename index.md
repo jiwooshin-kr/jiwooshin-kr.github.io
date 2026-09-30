@@ -28,10 +28,10 @@ title: Jiwoo Shin | KAIST
         <img src="/assets/img/linkedin.svg" alt="">
         <span><strong>LinkedIn</strong>Jiwoo Shin</span>
       </a>
-      <div class="profile-links__item">
+      <a href="https://jiwooshin-kr.github.io/blog">
         <img src="/assets/img/blog.svg" alt="">
-        <span><strong>Blog</strong>(coming soon)</span>
-      </div>
+        <span><strong>Blog</strong>jiwooshin-kr.github.io/blog</span>
+      </a>
     </div>
   </aside>
 
